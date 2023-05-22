@@ -3,6 +3,6 @@
 use namespace std;
 
 {
-
+	int a = 0;
 
 }
