@@ -6,5 +6,5 @@ use namespace std;
 	int a = 0;
 
 	cout << a << endl;
-
+	pull test;
 }
